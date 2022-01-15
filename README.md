@@ -14,7 +14,7 @@ Grid use for create density
 
 Hourly Barplot 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_barplot_notitle.png" alt="hourly barplot" />
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_barplot_notitle.jpeg" alt="hourly barplot" />
 </div>
 
 Daily Scatter Plot
@@ -29,10 +29,10 @@ Monthly Accumulated Scatter Plot
 
 Events
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_SerieT.png" alt="events" />
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_SerieT.jpeg" alt="events" />
 </div>
 
 Events series and scatter
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_eventos.png" alt="events series and scatter" />
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_eventos.jpeg" alt="events series and scatter" />
 </div>
