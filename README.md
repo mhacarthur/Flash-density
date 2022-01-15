@@ -12,6 +12,11 @@ Grid use for create density
   <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/BrasilDat_grid_region.png" alt="grid" />
 </div>
 
+Monthly Total Standardized
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_Total_mes_estandarizado.jpeg" alt="monthly total standardized" />
+</div>
+
 Hourly Barplot 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/fig/GLM_Brasildat_barplot_notitle.jpeg" alt="hourly barplot" />
