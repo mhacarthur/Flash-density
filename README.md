@@ -5,7 +5,7 @@ Data
 ---
 [GLM](https://ghrc.nsstc.nasa.gov/lightning/overview_glm.html)
 
-Figures
+Figures 5 min
 ----
 Grid use for create density
 <div align="center">
@@ -40,4 +40,26 @@ Events
 Events series and scatter
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_eventos.jpeg" alt="events series and scatter" />
+</div>
+
+Figures 15 min
+----
+Correlation BrasilDat-GLM/Flash
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_Corr.png" alt="Correlation" />
+</div>
+
+BrasilDat - GLM/flash RMSE and BIAS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_RMSE_BIAS.png" alt="RMSE and BIAS" />
+</div>
+
+Diference BrasilDat and GLM/flash
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_diff.png" alt="Diference" />
+</div>
+
+Boxplot without zeros for BrasilDat and GLM/flash
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_boxplot.png" alt="Boxplot" />
 </div>
