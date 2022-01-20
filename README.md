@@ -12,6 +12,11 @@ Mean BrasilDat and GLM/Flash
   <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_mean.png" alt="Mean" />
 </div>
 
+Barplot BrasilDat and GLM/Flash
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_barplot.png" alt="Barplot" />
+</div>
+
 Correlation BrasilDat-GLM/Flash
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/Flash-density/main/images/GLM_Brasildat_15min_Corr.png" alt="Correlation" />
